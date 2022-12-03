@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    list-style: none;
+    text-decoration: none;
+
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.container ul{
+    color:blanchedalmond;
+    display: flex;
+    column-gap: 40px;
+    margin-left: 50%;
+    padding-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.sec11{
+    background: url("../image/og_og_1593871948291656220.jpg")center/cover no-repeat;
+}
+.nashi{
+    text-align: center;
+    padding-top: 100px;
+}
+.nashi p{
+    padding-top: 50px;
+    color:azure;
+}
+.nashi h3{
+    font-size: 40px;
+    color: azure;
+
+}
+.img5{
+    display: flex;
+    column-gap: 30px;
+    padding-top: 70px;
+
+}
+.img5 img{
+    width:255px;
+    height:255px;
+    border-radius: 20px;
+}
+
+.but44{
+    padding: 15px 45px;
+    background: #4985FF;
+    border: none;
+    border-radius: 25px;
+    color: #FFFFFF;
+    margin-top: 50px;
+    font-size: 16px;
+    margin-left: 40%;
+    margin-bottom: 40px;
+}
